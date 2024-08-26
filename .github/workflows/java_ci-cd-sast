@@ -3,7 +3,7 @@ name: CI Pipeline with SAST Check
 on:
   push:
     branches:
-      - master  # Adjust this to your main branch name
+      - master2  # Adjust this to your main branch name
 
 jobs:
   sast-check:
